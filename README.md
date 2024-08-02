@@ -23,3 +23,7 @@ If you'd like to contribute to the BossBri Wallet, please refer to the [Contribu
 ## License
 
 BossBri Wallet is licensed under [Apache 2.0 License](LICENSE).
+
+# Contact
+
+If you need help,  please contact [Support](briapi@work.bri.co.id) 
